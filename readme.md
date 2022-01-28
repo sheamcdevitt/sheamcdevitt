@@ -1,6 +1,6 @@
 ### Welcome to my GitHub page 👋
 
-<img src="https://github.com/louelladev/louelladev/blob/main/banner_github.png?raw=true" alt="Banner stating Hello World! I'm Louella, Developer at Rotterdam, The Netherlands">
+<img src="https://github.com/sheamcdevitt/sheamcdevitt/blob/main/banner.png?raw=true" alt="Banner stating Hey, my names Shea im a frontend developer from belfast">
 
 ----
 
