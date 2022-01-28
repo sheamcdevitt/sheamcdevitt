@@ -20,5 +20,5 @@
 
 ## Where To Find Me :computer:
 Find me on here <br><br>
-[![Twitter](https://img.shields.io/twitter/follow/lovelacecoding?logo=twitter&style=for-the-badge)](https://twitter.com/sheamacdevitt)
+[![Twitter](https://img.shields.io/twitter/follow/sheamacdevitt?logo=twitter&style=for-the-badge)](https://twitter.com/sheamacdevitt)
 !add website
