@@ -18,7 +18,3 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 !add kdb,q
 
-## Where To Find Me :computer:
-Find me on here <br><br>
-[![Twitter](https://img.shields.io/twitter/follow/sheamacdevitt?logo=twitter&style=for-the-badge)](https://twitter.com/sheamacdevitt)
-!add website
