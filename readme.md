@@ -1,7 +1,4 @@
 ### Welcome to my GitHub page 👋
-
-<img src="https://github.com/sheamcdevitt/sheamcdevitt/blob/main/banner.png?raw=true" alt="Banner stating Hey, my names Shea im a frontend developer from belfast">
-
 ----
 
 ## My Skills :technologist:
