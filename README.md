@@ -31,7 +31,6 @@
 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40" style="margin: 0 10px;"/> </a>
-
-/> </a>
+ </a>
 
  </p>
