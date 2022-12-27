@@ -8,7 +8,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sheamcdevitt&theme=icegray&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-<h3 align="left">Stuff I use:</h3>
+### Stuff I use:
 <p align="left">
 
 <a href="https://graphql.org" target="_blank" rel="noreferrer">
