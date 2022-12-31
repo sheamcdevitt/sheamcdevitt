@@ -2,7 +2,7 @@
 
 ### Fullstack Software Engineer
 
-- Software Engineer at [**Ark**](communities.projectark.co.uk)
+- Software Engineer at [**Ark**](https://communities.projectark.co.uk)
 
 - 📫 How to reach me **personal@sheamcdevitt.com**
 
