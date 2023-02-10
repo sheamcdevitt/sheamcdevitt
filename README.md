@@ -6,6 +6,6 @@
 
 - 📫 How to reach me **personal@sheamcdevitt.com**
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sheamcdevitt)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jaw9c)](https://git.io/streak-stats)
 
 
