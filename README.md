@@ -2,10 +2,7 @@
 
 ### Fullstack Software Engineer
 
-- Software Engineer at [**Ark**](https://communities.projectark.co.uk)
-
-- 📫 How to reach me **personal@sheamcdevitt.com**
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sheamcdevitt)](https://git.io/streak-stats)
+- 💼 Fullstack Software Engineer building Web and Native apps @ [**Ark**](https://communities.projectark.co.uk)
+- 🎓 BSci Mathematics & CompSci @  **Queen's University Belfast**
 
 
